@@ -15,6 +15,13 @@
 <li>Managing the Enterprise Resource Planning</li>
 <li>Managing the Pos System</li>
 </ul>
+
+<h2>Strength</h2>
+<ul dir="auto">
+<li>Enjoy solving problems, neatly organized things and setting your own course</li>
+<li>Friendly, Positive, Enterprising, Diligent, Well-Organizing</li>
+</ul>
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
